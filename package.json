@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "async": "^2.6.0",
+    "body-parser": "^1.18.2",
+    "connect-multiparty": "^2.1.0",
+    "express": "^4.16.3",
+    "lodash": "^4.17.5",
+    "mysql": "^2.15.0",
+    "node-uuid": "^1.4.8",
+    "promise": "^8.0.1",
+    "supervisor": "^0.12.0"
+  }
+}
