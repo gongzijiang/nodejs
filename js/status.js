@@ -11,7 +11,7 @@ var statuscallback = {
 	 },
 	 authority_failed:{
 	 	code:20001,
-	 	msg:'权限失败'
+	 	msg:'权限失败1'
 	 }
 }
 
